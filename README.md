@@ -1,4 +1,4 @@
-<h1 align="left">Hello World, I'm Aleksander</h1>
+<h1 align="left">Hi, I'm Aleksander</h1>
 
 I'm a Computer Science student from Poland. I hold a strong passion for emerging technologies and their potential application in everyday life.
 
